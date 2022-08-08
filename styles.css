@@ -9,6 +9,35 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Mouse+Memoirs&display=swap');
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: whitesmoke;
 } 
 
+.todo {
+    width: 300px;
+    text-align: center;
+    color: red;
+    border: 5px;
+    border-radius: 5px;
+}
+
+header {
+    text-align: left;
+    height: 80px;
+    padding: 40px;
+    color: gold;
+   
+}
+
+main {
+    margin: auto;
+    padding-left: 25%;
+}
+
+#headingg {
+    list-style-type: none;
+}
+
+footer {
+    margin: 30%;
+}
